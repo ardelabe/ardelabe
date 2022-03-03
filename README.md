@@ -1,4 +1,3 @@
-## Hi there 👋
 ## I'm Anderson, welcome to my GitHub profile!
 <!--
 **ardelabe/ardelabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
