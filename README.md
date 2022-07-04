@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 🔭 I’m not working with code right now, I have a job as a technical IT support - so, I fix things - I do not code at work (yet).  
 - 🌱 I’m currently learning some Java, I just read the Deitel handbook (Java: How to Code), I'm reading Clean Code and Clean Coder (Robert Martin). I'm learning about Linux too. In my workplace, sometimes I need to deal with some server issues - some of them are Linux - so, naturally I started to use it's distros (now I'm using Arch in my home and Manjaro at work).  
 - 👯 I’m looking to collaborate on any beginner friendly project - I feel more confortable with Python, Java, C/C++, but whathever coding enviroment accepts me in, I'm in! Give me some XP, give me, give me!  
-- 💬 Ask me about my baby and I'll post a new funny picture on Instagram.  
 - 📫 How to reach me:  
 [GitHub: ardelabe](https://github.com/ardelabe)  
 [Twitter: @AndersonAbe2](https://twitter.com/AndersonAbe2)   
