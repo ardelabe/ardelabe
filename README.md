@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I have a job as a technical IT support - so, I troubleshoot problems and sometimes code some script to automate some tasks. In april-2023, I've been promoted - now I am the manager of the IT team in Londrina'a City Counsil.   
+- 🔭 I have a job as a technical IT support - so, I troubleshoot problems and sometimes code some script to automate some tasks. In april-2023, I've been promoted - now I am the manager of the IT team in Londrina's City Counsil.   
 - 🌱 I’m currently learning more about Linux and some data analisys in Python.   
 - 👯 I’m looking to collaborate on any beginner friendly project - I feel more confortable with Python, Java, C/C++, but whathever coding enviroment accepts me in, I'm in! Give me some XP, give me, give me!  
 - 📫 How to reach me:  
