@@ -23,9 +23,3 @@ Here are some ideas to get you started:
 [ar.delattreabe@gmail.com](mailto:ar.delattreabe@gmail.com)  
 - 😄 Pronouns: he, his.  
 - ⚡ Fun fact: Altough I'm in love with coding, I just found it (2018) in my life. I have a degree in Law school, in a fine University. This degree got me a job as public employee - and in my workplace I changed from public contracts department to IT in 2017, and never looked back. 
-
-<div>
-<a href="https://github.com/ardelabe">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardelabe&layout=compact&langs_count=7&theme=dracula"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ardelabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
