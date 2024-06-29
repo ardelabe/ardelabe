@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 🔭 I have a job as a technical IT support - so, I troubleshoot problems and sometimes code some script to automate some tasks. In april-2023, I've been promoted - now I am the manager of the IT team in Londrina's City Council.   
 - 🌱 I’m currently learning working in government business - I make some projects that become contracts. I usually have to deal with some troubleshooting and network management now and then.    
 - :heart: I love linux and python - I wish I could work more whith those things.  
+- 😄 Pronouns: he, his.  
+- ⚡ Fun fact: Altough I'm in love with coding, I just found it (2018) in my life. I have a degree in Law school, in a fine University. This degree got me a job as public employee - and in my workplace I changed from public contracts department to IT in 2017.
+- :notebook_with_decorative_cover: I'm taking a second degree, this year (2024) I'll get my degree in computer engineering.
 - 📫 How to reach me:  
 [GitHub: ardelabe](https://github.com/ardelabe)  
 [Instagram: ar.delattreabe](https://www.instagram.com/ar.delattreabe/)    
 [ar.delattreabe@gmail.com](mailto:ar.delattreabe@gmail.com)  
-- 😄 Pronouns: he, his.  
-- ⚡ Fun fact: Altough I'm in love with coding, I just found it (2018) in my life. I have a degree in Law school, in a fine University. This degree got me a job as public employee - and in my workplace I changed from public contracts department to IT in 2017. 
+
